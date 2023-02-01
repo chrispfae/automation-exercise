@@ -1,4 +1,4 @@
-name: badge-not-updating
+name: SSE CI/CD
 on: [push]
 jobs:
   style_check:

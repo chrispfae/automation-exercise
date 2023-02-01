@@ -25,8 +25,6 @@ class SolveDiffusion2D:
         self.nx = None
         self.ny = None
 
-
-
         # Thermal diffusivity of steel, mm^2/s
         self.D = None
 
