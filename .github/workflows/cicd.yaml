@@ -1,4 +1,4 @@
-name: SSE CI/CD
+name: Style-test-coverage
 on: [push]
 jobs:
   style_check:
