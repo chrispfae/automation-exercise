@@ -1,4 +1,4 @@
-
+[![SSE CI/CD](https://github.com/chrispfae/automation-exercise/actions/workflows/cicd.yaml/badge.svg)](https://github.com/chrispfae/automation-exercise/actions/workflows/cicd.yaml)
 
 # Automation Exercise
 
