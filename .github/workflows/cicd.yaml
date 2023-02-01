@@ -1,4 +1,4 @@
-name: Style-tests-coverage
+name: Style-test-coverage
 on: [push]
 jobs:
   style_check:
